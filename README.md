@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License">
-  <a href="https://nicelinks.site/post/5c16083e819ae45de1453caa">
+  <a href="https://prettier.io/">
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" alt="Prettier">
   </a>
 </div>
