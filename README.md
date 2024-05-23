@@ -15,10 +15,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License">
-  <a href="https://prettier.io/">
-    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" alt="Prettier">
-  </a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License"></a>
+  <a href="https://prettier.io/"><img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat" alt="Prettier"></a>
 </div>
 
 ## Goal and Philosophy
