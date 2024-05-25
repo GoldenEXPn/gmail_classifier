@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://arya.lovejade.cn/" target="_blank">
-    <img width="100"alt="Logo(Change Later)"src="https://raw.githubusercontent.com/nicejade/arya-jarvis/master/assets/images/logo.png">
-  </a>
+  <img width="100"alt="Logo(Change Later)"src="https://raw.githubusercontent.com/nicejade/arya-jarvis/master/assets/images/logo.png">
 </p>
 
 <h1 align="center">Gmail Classifier</h1>
