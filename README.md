@@ -22,7 +22,9 @@
 Workers, professors, and students are always overwhelmed by abundant email messages. Plenty of spam emails or subscription emails from apps can easily make people miss important work messages. Inspired by this, we decided to pretrain a classification model and create a web app based on it to help people easily find work email messages. In the near future, the web app can even automatically categorize and set priorities for each email message!
 
 
-## Website UI elements
-<div align = center>
-  <a href="https://www.figma.com/design/TvctykmBki1zY0chNWPaaa/WebUI_draft?node-id=0-1&t=yuBynKHzwnRUtpTY-1"> figma </a>
-</div>
+## Website UI elements  
+<a href="https://www.figma.com/design/TvctykmBki1zY0chNWPaaa/WebUI_draft?node-id=0-1&t=yuBynKHzwnRUtpTY-1"> figma </a>
+
+
+## Resources: 
+<a href="https://www.figma.com/design/TvctykmBki1zY0chNWPaaa/WebUI_draft?node-id=0-1&t=yuBynKHzwnRUtpTY-1"> figma </a>
