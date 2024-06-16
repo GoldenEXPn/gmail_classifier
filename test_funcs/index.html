@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+
+
+
+<head>
+    <title>Gmail Classifier</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+
+
+<body>
+    <h1>Gmail Classifier</h1>
+    <form id="loginForm" action="/login" method="post">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password">
+        <button type="submit">Login</button>
+    </form>
+    <a href="/authorize">Login with Gmail</a>
+    <div id="result"></div>
+
+    <script>
+        // JavaScript代码可以在此处添加
+    </script>
+</body>
+
+
+
+</html>
