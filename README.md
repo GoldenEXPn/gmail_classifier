@@ -28,3 +28,8 @@ Workers, professors, and students are always overwhelmed by abundant email messa
 
 ## Resources: 
 <a href="https://www.figma.com/design/TvctykmBki1zY0chNWPaaa/WebUI_draft?node-id=0-1&t=yuBynKHzwnRUtpTY-1"> figma </a>
+
+
+## Dataset:
+
+We leverage <a href="https://www.cs.cmu.edu/~enron/"> Enron Email Dataset </a> in fine-tuning. The dataset contains around 500K email messages, and we filter all empty-title, RE and FW messages and select around 5K high-quality email messages.
